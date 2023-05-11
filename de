@@ -1,5 +1,5 @@
 # This is a hello field
-rws_field1="Hallo"
+rws_field1="Hello World\!"
 # This is a some content field
 rws_field2="Hier sind einige Inhalte"
 # This is an additional content drop down menu
