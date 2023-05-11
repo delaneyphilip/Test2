@@ -1,11 +1,11 @@
 # This is a hello field
-rws_field1="Hello World\!"
+rws_field1="Hello brand new world."
 # This is a some content field
-rws_field2="Hier sind einige Inhalte"
+rws_field2="Das ist eine völlig andere Zeichenfolge."
 # This is an additional content drop down menu
 rws_field3="Hier ist noch mehr Text"
 # This is a friday smiley
-rws_field4="Freitag ist mein Lieblingstag der Woche"
+rws_field4="Freitag ist mein Lieblingstag der Woche icht\!"
 # Some days context here
 rws_field5="Es gibt % Tage in einer Woche"
 # Some monthly context here
